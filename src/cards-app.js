@@ -1,6 +1,5 @@
 import { LitElement, html, css } from 'lit';
 
-import "../node_modules/@ampproject/amp-story/1.0/amp-story.js";
 import "@lrnwebcomponents/accent-card/accent-card.js";
 import "@lrnwebcomponents/meme-maker/meme-maker.js";
 
